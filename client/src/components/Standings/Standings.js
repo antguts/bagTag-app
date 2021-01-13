@@ -27,10 +27,11 @@ const Standings =()=>{
                     <div className={classes.lowerPlace}>4</div>
                     <div className={classes.lowerPlace}>5</div>
                     <div className={classes.lowerPlace}>6</div>
+                </div>
+                <div className={classes.underThird}>
                     <div className={classes.lowerPlace}>7</div>
                     <div className={classes.lowerPlace}>8</div>
-                    <div className={classes.lowerPlace}>9</div>
-                    
+                    <div className={classes.lowerPlace}>9</div>    
                 </div>
             </div> {/*End container*/}
         {/*End main div*/}</div> 
