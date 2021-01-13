@@ -15,10 +15,10 @@ const Standings =()=>{
                     <h1>1st</h1>
                 </div>
                 <div className={classes.twoThree}>
-                    <div id="second">
+                    <div className={classes.second}>
                         <h1>2nd</h1>
                     </div>
-                    <div id="third">
+                    <div className={classes.third}>
                         <h1>3rd</h1>
                     </div>
                 </div>
